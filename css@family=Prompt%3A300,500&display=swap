@@ -1,0 +1,14 @@
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: local('Prompt Light'), local('Prompt-Light'), url(https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Cy_gIaWMr.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Prompt';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: local('Prompt Medium'), local('Prompt-Medium'), url(https://fonts.gstatic.com/s/prompt/v4/-W_8XJnvUD7dzB2Ck_kIaWMr.ttf) format('truetype');
+}
